@@ -1,7 +1,7 @@
 # Contacts-Manager
 A simple CRUD APP for Managing Contacts
-![WhatsApp Image 2022-10-21 at 14 40 11 (2)](https://user-images.githubusercontent.com/85659480/197766622-5d2975f5-ed1e-4aeb-8f58-56052c78464f.jpeg)
-![WhatsApp Image 2022-10-21 at 14 40 11](https://user-images.githubusercontent.com/85659480/197766647-eddda41d-1318-45aa-825f-ad2d44ef4797.jpeg)
-![WhatsApp Image 2022-10-21 at 14 40 11 (5)](https://user-images.githubusercontent.com/85659480/197766672-75755993-9ab3-4c60-82a7-3b977a775b94.jpeg)
-![WhatsApp Image 2022-10-21 at 14 40 11 (6)](https://user-images.githubusercontent.com/85659480/197766682-a8a14025-2e45-4d1f-83ad-d9d2d2ce1a60.jpeg)
-![WhatsApp Image 2022-10-21 at 14 40 11 (1)](https://user-images.githubusercontent.com/85659480/197766715-00fa8651-6b8f-41b0-b036-392f74c25d79.jpeg)
+![Screenshot (269)](https://user-images.githubusercontent.com/85659480/201821745-6d714e23-f69a-4247-b8ae-aadaa2b2fbed.png)
+![Screenshot (270)](https://user-images.githubusercontent.com/85659480/201821777-d93bbdb1-0175-47b7-8368-144e27483d15.png)
+![Screenshot (271)](https://user-images.githubusercontent.com/85659480/201821829-36bbdcea-9a0a-47f4-945c-22e8ae6d86c1.png)
+![Screenshot (272)](https://user-images.githubusercontent.com/85659480/201821836-32110171-d702-4154-9bfd-6bd0fb61849f.png)
+![Screenshot (273)](https://user-images.githubusercontent.com/85659480/201821854-e63d78e0-2cf9-4cad-9055-37b7cd9e9c85.png)
